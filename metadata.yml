@@ -1,0 +1,7 @@
+group: C1  # replace with your own group (A1, A2, B1, B2, C1, SC1)
+names:  # Replace with your own names (lastname first)
+  - Zoubga Eleazar
+  - Fornaro Matthias
+emails:  # Replace with your own INSA email address
+  - wzoubga@insa-toulouse.fr
+  - fornaro@insa-toulouse.fr
